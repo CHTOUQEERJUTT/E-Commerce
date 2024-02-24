@@ -1,0 +1,17 @@
+.c1{
+    height: calc(100vh - 80px);
+}
+@font-face {
+    font-family: 'Roboto';
+    src: url(./Lato/Lato-Bold.ttf);
+}
+body{
+    font-family: 'Roboto', sans-serif;
+    font-size: 16px;
+    line-height: 1.6;
+    color: #333;
+    background-color: #f4f4f4;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
